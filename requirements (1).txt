@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+streamlit_plotly_events
+Pillow
+folium
+streamlit_folium
+
